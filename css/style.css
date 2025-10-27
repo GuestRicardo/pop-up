@@ -1,0 +1,18 @@
+
+.btnPosicao{
+  text-align: center;
+  margin-top: 10px;
+}
+.btnClosed {
+background-color: red;
+color: white;
+padding: 5px ;
+border: none;
+border-radius: 5px;
+}
+.popup {
+   background-color: #4e8196;
+   color: rgb(255, 255, 255);
+   padding: 20px;
+   margin: 20px;
+}
